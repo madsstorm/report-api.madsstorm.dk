@@ -1,3 +1,3 @@
 # report-api.madsstorm.dk
 
-Reporting API for madsstorm.dk built on Azure Functions
+Browser Reporting API for madsstorm.dk built with Azure Functions and Application Insights
